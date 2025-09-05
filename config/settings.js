@@ -46,12 +46,12 @@ module.exports = {
     key: 'Your-API-key' // Register here: https://daniapi.biz.id/#sign-up
   },
   bot: {
-    name: 'Your Bot Name',
+    name: 'lyrical-xmd',
     profile_status: 'Bot aktif hingga kiamat or 24/7'
   },
   owner: {
-    name: ["Your Name"],
-    number: ["628xxx"]
+    name: ["lyrical"],
+    number: ["2547697xxx"]
   },
   daily_limit: {
     free: 25,
@@ -60,7 +60,7 @@ module.exports = {
   watermark: {
     sticker: {
       package_name: 'Created by',
-      author_name: 'Your Name'
+      author_name: 'lyrical'
     }
   },
   react: {
@@ -87,4 +87,5 @@ module.exports = {
     country: 'id-ID',
     time_zone: 'Asia/Jakarta'
   }
+
 };
